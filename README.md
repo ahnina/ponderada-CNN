@@ -68,3 +68,9 @@ O backend feito utilizando flask e definido no arquivo app.py, consiste em duas 
 **Rota "/":** essa é uma rota do tipo GET	que tem como objetivo retornar apágina HTML, definida no código pelo arquivo "index.html". Essa rota é responsável por exibir a página inicial com o formulário de upload de imagem.
 
 **Rota "/predict":** essa é uma rota do tipo POST responsável por receber um Arquivo de imagem e retornar um JSON com o dígito reconhecido na predição.
+
+## Vídeo de demonstração da Solução
+
+O vídeo de demonstração de como deve ser o funcionamento da interface assim que executado os passos descritos anteriormente está disponível [aqui](https://drive.google.com/file/d/10ewBmaCWb5GZ2AC090PkgQL34X_FjPJE/view?usp=sharing)
+
+As imagens utilizadas no vídeo acima para o teste da interface estão disponíveis [aqui](https://drive.google.com/drive/folders/1X473gpVulPk_c_UrTHfcszUFP2IA63qj?usp=sharing)
